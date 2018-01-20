@@ -1,5 +1,5 @@
 {
-  "name": "react-web3",
+  "name": "react-web3-1",
   "version": "0.4.4",
   "description": "",
   "main": "./dist/index.js",
@@ -20,7 +20,8 @@
   "author": "Cooper Maruyama <me@cooperm.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "react-web3": "^0.4.4"
   },
   "peerDependencies": {
     "react": "^15.6.1",
